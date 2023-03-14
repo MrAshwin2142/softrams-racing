@@ -1,0 +1,54 @@
+{
+  "members": [
+    {
+      "firstName": "Ashwin ",
+      "lastName": "Dhangar",
+      "jobTitle": "Ashwin",
+      "team": "Formula 2 - Car 63",
+      "status": "Inactive",
+      "id": 1
+    }
+  ],
+  "teams": [
+    {
+      "id": 1,
+      "teamNameName": "Formula 1 - Car 77"
+    },
+    {
+      "id": 2,
+      "teamName": "Formula 1 - Car 8"
+    },
+    {
+      "id": 3,
+      "teamName": "Formula 2 - Car 54"
+    },
+    {
+      "id": 4,
+      "teamName": "Formula 2 - Car 63"
+    },
+    {
+      "id": 5,
+      "teamName": "Deutsche Tourenwagen Masters - Car 117"
+    },
+    {
+      "id": 6,
+      "teamName": "Deutsche Tourenwagen Masters - Car 118"
+    },
+    {
+      "id": 7,
+      "teamName": "World Endurance Championship - Car 99"
+    },
+    {
+      "id": 8,
+      "teamName": "World Endurance Championship - Car 5"
+    },
+    {
+      "id": 9,
+      "teamName": "World Rally Championship - Car 77"
+    },
+    {
+      "id": 10,
+      "teamName": "World Rally Championship - Car 90"
+    }
+  ]
+}
